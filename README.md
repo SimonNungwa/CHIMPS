@@ -1,7 +1,7 @@
 #  CHIMPS Robot Project
 
 **CHIMPS (Cognitive Hybrid Intelligent Modular Prototype System)** is a robotics project developed as part of the university engineering program.  
-The system demonstrates **autonomous control**, **AI integration**, and **modular robotics design** — combining mechanical, electrical, and software components into one cohesive system.
+The system demonstrates **autonomous control**, **AI integration**, and **modular robotics design** effectively integrating  mechanical, electrical, and software components into one cohesive system.
 
 ---
 
